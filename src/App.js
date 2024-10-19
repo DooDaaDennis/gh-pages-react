@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          My page in React
+          My page in React!!
         </p>
         <a
           className="App-link"
